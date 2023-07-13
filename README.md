@@ -53,8 +53,8 @@
 <details open>
 <summary><b>👨‍💻 Frontend</b></summary>
 <br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px" height="40px" alt="HTML5" title="HTML5"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px" height="40px" alt="CSS3" title="CSS3"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" alt="HTML5" title="HTML5"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" alt="CSS3" title="CSS3"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" height="40px" alt="SASS" title="SASS"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" height="40px" alt="Javascript" title="Javascript"/>
 </details>
@@ -62,6 +62,7 @@
 
 <details open>
 <summary><b>🖥️ Software</b></summary>
+<br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" alt="Git" title="Git"/>
  <img src="assets/github.png" width="40px" height="40px" alt="Github" title="Github"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" height="40px" alt="Visual Studio Code" title="Visual Studio Code"/>
