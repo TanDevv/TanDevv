@@ -63,7 +63,7 @@
 <details open>
 <summary><b>🖥️ Software</b></summary>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" alt="Git" title="Git"/>
- <img src="assets/github-mark-white.png" width="40px" height="40px" alt="Github" title="Github"/>
+ <img src="assets/github.png" width="40px" height="40px" alt="Github" title="Github"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" height="40px" alt="Visual Studio Code" title="Visual Studio Code"/>
 </details>
 <br>
