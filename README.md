@@ -53,18 +53,18 @@
 <details open>
 <summary><b>👨‍💻 Frontend</b></summary>
 <br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45px" alt="HTML5" title="HTML5"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45px" alt="CSS3" title="CSS3"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45px" alt="SASS" title="SASS"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px" alt="Javascript" title="Javascript"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px" height="40px" alt="HTML5" title="HTML5"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px" height="40px" alt="CSS3" title="CSS3"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" height="40px" alt="SASS" title="SASS"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" height="40px" alt="Javascript" title="Javascript"/>
 </details>
 <br>
 
 <details open>
 <summary><b>🖥️ Software</b></summary>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="45px" alt="Git" title="Git"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45px" alt="Github" title="Github"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45px" alt="Visual Studio Code" title="Visual Studio Code"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" alt="Git" title="Git"/>
+ <img src="assets/github-mark-white.png" width="40px" height="40px" alt="Github" title="Github"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" height="40px" alt="Visual Studio Code" title="Visual Studio Code"/>
 </details>
 <br>
 
@@ -74,11 +74,12 @@
 <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandevv&layout=compact" alt="Liam Tanfield most used languages card" title="Liam Tanfield most used languages card">
 </p>
 
+<div align ="center">
 <h2>📧 Connect with me</h2>
-
-<a href="mailto:TanDevUK@gmail.com">
-  <img src="assets/gmail.png" alt="Gmail" title="Gmail" height="40" width="40"/></a>
-<a href="https://www.instagram.com/tandevuk/" target="blank">
-  <img src="assets/instagram-color.svg" alt="Instagram" title="Instagram" height="40" width="40"/></a>
-<a href="https://www.frontendmentor.io/profile/tandevv" target="blank">
-  <img src="https://user-images.githubusercontent.com/13468728/230118926-2cb0d52a-20bc-4ebb-aff3-7096bd97f1fa.svg" alt="Frontend Mentor" title="Frontend Mentor" height="40" width="40"/></a>
+  <a href="mailto:TanDevUK@gmail.com">
+    <img src="assets/gmail.png" alt="Gmail" title="Gmail" height="40px" width="40px"/></a>
+  <a href="https://www.instagram.com/tandevuk/" target="blank">
+    <img src="assets/instagram-color.svg" alt="Instagram" title="Instagram" height="40px" width="50px"/></a>
+  <a href="https://www.frontendmentor.io/profile/tandevv" target="blank">
+    <img src="https://user-images.githubusercontent.com/13468728/230118926-2cb0d52a-20bc-4ebb-aff3-7096bd97f1fa.svg" alt="Frontend Mentor" title="Frontend Mentor" height="40px" width="40px"/></a>
+</div>
